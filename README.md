@@ -8,5 +8,4 @@
 👯 I'm looking to collaborate on DevOps Project
 
 ---
-### :fire: My Stats :https://github-readme-streak-stats.herokuapp.com/?user=your-Dhairya-A-Mehra
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-Dhairya-A-Mehra&theme=dark&background=000000)](https://git.io/streak-stats)
+### :fire: My Stats :[![GitHub Streak](https://streak-stats.demolab.com/?user=Dhairya-A-Mehra)](https://git.io/streak-stats)
