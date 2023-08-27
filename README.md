@@ -9,4 +9,4 @@
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dhairya-A-Mehra)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dhairya-A-Mehra&theme=highcontrast)](https://git.io/streak-stats)
