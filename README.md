@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairya-a-mehra&label=Profile%20views&color=0e75b6&style=flat" alt="dhairya-a-mehra" /> </p>
 
-- 🌱 I’m currently learning **C++,Linux**
+- 🌱 I’m currently learning **NextJs, Terraform, Neo4j**
 
 - 👯 I’m looking to collaborate on **DevOps Project**
-
-- 💬 Ask me about **C++,HTML**
 
 - 📫 How to reach me **mpdhairyamehra000942@gmail.com**
 
